@@ -1,0 +1,9 @@
+{
+	"name"			: "mirlo",
+	"description"	: "Chat application with node.js and socket.io",
+	"version"		: "0.0.1",
+	"dependencies": {
+		"express"		: "",
+		"socket.io"		: ""
+	}
+}
