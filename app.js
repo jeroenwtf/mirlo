@@ -7,9 +7,9 @@ var express	= require('express'),
 server.listen(8080);
 
 // routing
-app.get('/', function (req, res) {
+/*app.get('/', function (req, res) {
 	res.sendfile(__dirname + '/index.html');
-});
+});*/
 
 // usernames which are currently connected to the chat
 var usernames = {};
